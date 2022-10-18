@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655427286 source:c:\users\gabriel\desktop\teoria de grafos\knapsack\knap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

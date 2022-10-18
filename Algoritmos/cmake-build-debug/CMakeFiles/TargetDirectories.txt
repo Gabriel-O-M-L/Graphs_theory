@@ -1,0 +1,3 @@
+C:/Users/Gabriel/Desktop/TEORIA DE GRAFOS/Algoritmos/cmake-build-debug/CMakeFiles/Algoritmos.dir
+C:/Users/Gabriel/Desktop/TEORIA DE GRAFOS/Algoritmos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabriel/Desktop/TEORIA DE GRAFOS/Algoritmos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

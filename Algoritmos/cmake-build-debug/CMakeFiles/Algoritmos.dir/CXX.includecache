@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Gabriel/Desktop/TEORIA DE GRAFOS/Algoritmos/main.cpp
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
